@@ -1,0 +1,9 @@
+[package]
+name = "filed"
+version = "0.1.0"
+edition = "2024"
+description = "Port of the module 'aplustools.io.fileio' from my Python 'aplustools' utility library. "
+license = "LGPL-3.0-only"
+repository = "https://github.com/adalfarus/filed.rs"
+
+[dependencies]
